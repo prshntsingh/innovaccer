@@ -19,8 +19,8 @@ for file in files:
 			commands.getstatusoutput(f)
 		except:
 			""
-print "\nAll files moved from Desktop to 'DesktopFiles' in Documnets"
-print "\n***********************************************************************************\n\nPrintng top 10 files"
+print "\nAll files moved from Desktop to 'DesktopFiles' in Documents"
+print "\n***********************************************************************************\n\nPrinting top 10 files"
 
 '''
 ***********all files moved.Script below lists the top 10 biggest file in '/home'*********
